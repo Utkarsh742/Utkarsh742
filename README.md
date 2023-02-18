@@ -81,6 +81,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=utkarsh742&theme=synthwave&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <br>
+
 ![Utkarsh's Github Stats](https://github-readme-stats.vercel.app/api?username=utkarsh742&show_icons=true&theme=synthwave)
 
 <br>
