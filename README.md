@@ -12,7 +12,7 @@
 
 ## Glad to see you here! Feel free to connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshdwivedi742) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://utkarsh742.github.io/My-Portfolio/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ut_dwivedi) [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Ultrahacx#9749)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utkarshdwivedi742) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://utkarshdwivedi.in) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ut_dwivedi) [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Ultrahacx#9749)
 
 ## Talking about Personal Stuff:
 
